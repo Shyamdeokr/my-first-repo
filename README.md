@@ -1,15 +1,15 @@
-# Sean Kross
+# Shyam Deo
 
 ### Geography
 
-I live in the city of Baltimore, in the state of Maryland, in the United States
+I live in State College, Pennsylvania, in the United States
 of America.
 
 ### Reading
 
 Three of my favorite books are:
 
-- *Mindstorms* by Seymour Papert
+- *A Song of Ice and Fire series* by GRRM
 - *Welcome to the Monkey House* by Kurt Vonnegut
 - *Persepolis* by Marjane Satrapi
 
@@ -17,10 +17,10 @@ Three of my favorite books are:
 
 Last night I dreamt about eating in these restaurants:
 
-1. Linger in Denver.
-2. Azura in Jerusalem.
-3. Gemma in New York City.
+1. Kamrai in State College.
+2. Rasika in Washington DC.
+3. Bombay Restaurant in New York City.
 
 ### Contact
 
-The best way to get in touch with me is [on Twitter](https://twitter.com/seankross).
+The best way to get in touch with me is [facebook](https://www.facebook.com/shyam.d.kr).
